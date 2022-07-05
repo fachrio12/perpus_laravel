@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\detail_peminjaman_buku;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\DB;
-//use andalan
+
 
 
 class detailpeminjamanbukuController extends Controller
